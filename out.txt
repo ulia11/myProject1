@@ -1,3 +1,4 @@
 code/
 out.txt
 test.txt
+print("Second try")
